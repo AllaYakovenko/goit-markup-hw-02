@@ -149,15 +149,16 @@ color: var(--accent-color);
     line-height: 1.14;
 }
 
+.feature-list .section-subtitle{
+    text-transform: uppercase;
+}
 .galary .section-subtitle{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.88;
 }
 
 .section-description{
     color: var(--title-text-color);
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
 }
@@ -175,7 +176,6 @@ color: var(--accent-color);
 
 .team .section-subtitle{
     color: var(--title-text-color);
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
     /* identical to box height */
@@ -186,7 +186,6 @@ color: var(--accent-color);
 .footer .address{
     color: var(--primary-background);
     font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     text-decoration: none;
@@ -194,7 +193,6 @@ color: var(--accent-color);
 .footer .link{
     color: var(--footer-contact-color);
     font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
 }
